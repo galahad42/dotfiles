@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="25%" src="https://github.com/galahad42/dotfiles/blob/main/Pictures/Wallpapers/why_am_i_here.png" />
+</p>
 
 <p align="center">
   <b> Galahad's configuration files </b>
